@@ -1,2 +1,2 @@
 # SmileRock
-LOL
+New to GitHub
